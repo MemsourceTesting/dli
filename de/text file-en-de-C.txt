@@ -1,2 +1,2 @@
-first
-second
+dies ist eine Textdatei.
+Ende der Datei.
