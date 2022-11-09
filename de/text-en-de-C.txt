@@ -1,2 +1,2 @@
-dies ist eine Textdatei.
-Ende der Datei.
+das ist eine Textdatei.
+Ende der Akte.
