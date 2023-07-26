@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="global" datatype="plaintext" source-language="en-US" target-language="sv-SE">
+    <body>
+      <trans-unit id="key">
+        <source xml:lang="en-US"><![CDATA[[phrase:fb165053-4cfe-f4f7-96fc-4d3991f9be0d]<p>Unfortunately we're unable to undelete the mentioned domain and hosting subscription.&nbsp;</p><p>If the domain has been released for registration you can place a new order on our website <a href="https://www.one.com/" rel="noopener noreferrer" target="_blank">one.com</a>.</p><p>If you have any other questions or the domain is shown as occupied, please reply to this email, and we will get you through to the right support team.</p>]]></source>
+        <target xml:lang="sv-SE"/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
