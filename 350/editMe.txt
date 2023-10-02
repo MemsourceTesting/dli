@@ -3,3 +3,4 @@ Edited from MacOS.
 Edit from mac without pulling first.
 Edit for CP.
 Edit browser.
+Edit PC.
