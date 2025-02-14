@@ -1,0 +1,3 @@
+dies ist eine verbesserte Textdatei.
+mit 2 zweiten Zeilen.
+Ende der Datei.
