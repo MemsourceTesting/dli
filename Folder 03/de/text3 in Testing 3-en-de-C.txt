@@ -1,3 +1,3 @@
-pppppppp pppp pppp ppppppppppp
-pppppppp 2 ppppppppp
-pppppp pppp pppp
+dies ist eine verbesserte Textdatei.
+mit 2 zweiten Zeilen.
+Ende der Datei.
